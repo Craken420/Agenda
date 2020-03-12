@@ -14,6 +14,8 @@ Stack de Vuejs, MongoJs, ExpressJs y Node
     # run
     npm start
    
+    Nota: Puedes observar el servidor en http://localhost/8081
+    
 2.- Abrir la carpeta "Cliente" en consola y ejecutar el sigguiente comando:
 
     # install dependencies
